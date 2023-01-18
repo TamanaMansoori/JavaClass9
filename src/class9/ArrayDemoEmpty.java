@@ -1,6 +1,6 @@
 package class9;
 
-public class ArrayDemo5 {
+public class ArrayDemoEmpty {
     public static void main(String[] args) {
         //here we can creat an empty variable with array
 
