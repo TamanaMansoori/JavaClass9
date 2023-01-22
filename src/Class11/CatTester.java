@@ -10,15 +10,17 @@ public class CatTester {
        cat1.breed="Van Cat";
        cat1.age=2;
        cat1.attitude=false;
-       cat1.eat();//it is how we create the behaviour of the cat
+       cat1.eat();//it is how we create the behaviour of the cat and it is also the output
 
 //below code is  the behaviors for cat2
-       /* Cat cat2=new Cat();
+       Cat cat2=new Cat();
         cat2.name="MEMO";
         cat2.breed="Domestic";
         cat2.age=6;
         cat2.attitude=false;
-        System.out.println();*/
+
+        System.out.println(cat2.breed);  //output
+        cat2.speak();// output
 
 
     }
