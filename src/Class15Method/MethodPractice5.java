@@ -15,6 +15,7 @@ public class MethodPractice5 {
      */
 
     String printSchool(){
+
         return "Syntax";
     }
 }

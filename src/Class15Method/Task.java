@@ -14,7 +14,7 @@ String createEmail(String firstName,String lastName,String emailType) {
 
 public static void main(String[]args){
         Task task=new Task();
-       // System.out.println(task.createEmail("Jon",lastName"snow",emailType,))
+        System.out.println(task.createEmail("Jon","snow","gmail"));
         }
 
 }

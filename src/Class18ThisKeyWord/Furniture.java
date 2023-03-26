@@ -2,13 +2,13 @@ package Class18ThisKeyWord;
 
 public class Furniture {
 
-    //varuable is created below
+    //instance varuable is created below
 
     String type;
     double price;
     String color;
 
-    //constector is created below and it is parameterized one , here we initialize object with specific value
+    //constructor is created below and it is parameterized one , here we initialize instance variables  with specific value
 
     Furniture(String type, double price, String color ) {
 

@@ -1,7 +1,7 @@
 package Class15Method;
 
 public class MethodPractice2 {
-    //create amethod that takes a String reverse it and return the revsered String
+    //create a method that takes a String reverse it and return the revsered String
     //call the method reversStr
 
     String reverseStr(String input){
